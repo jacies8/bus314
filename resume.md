@@ -10,8 +10,15 @@
 ## Professional Experience
 ### Hawaiʻi Sea Grant Fiscal Office, Student Assistant
 - Reconcile project budgets against actual expenditures by reviewing line-item expenses, payroll, and direct and indirect costs
+- Review budget proposals by comparing requested funding to final awards and documented variances to inform researchers
+- Analyze project budgets to identify funding gaps, negative balances, and accounts requiring additional resources
+
+  
 ### Deloitte & Touche LLP, Audit Intern
 - Prepared workpapers with detailed testing results, ensuring completeness, and proper cross-referencing to documentation 
+- Supported audit planning, risk assessment, and control testing for multiple client engagements across various industries
+- Contributed to a team-oriented environment, collaborating with staff, seniors, and managers to meet deadlines
+
 
 ## Leadership Experience
 ### Delta Sigma Pi: Rho Chi, President

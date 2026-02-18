@@ -4,8 +4,22 @@
 **GitHub:** github.com/jacies8
 
 ## Education
-- B.B.A Candidate in Accounting, University of Hawai'i Manoa
+- B.B.A Candidate in Accounting, University of Hawai'i Manoa | Expected Graduation: May 2027
+- Keio University - Tokyo, Japan | Spring 2025 Semester Abroad
 
-## Experience
-- Lecturer in International Economics and Finance, University of Hawai’i
-- Former Wall Street Trader, Barclays Capital
+## Professional Experience
+### Hawaiʻi Sea Grant Fiscal Office, Student Assistant
+- Reconcile project budgets against actual expenditures by reviewing line-item expenses, payroll, and direct and indirect costs
+### Deloitte & Touche LLP, Audit Intern
+- Prepared workpapers with detailed testing results, ensuring completeness, and proper cross-referencing to documentation 
+
+## Leadership Experience
+### Delta Sigma Pi: Rho Chi, President
+- Oversee planning and execution of 10 events/initiatives per semester for over 80 members, increasing member engagement and participation by 30%
+- Direct and manage a 14-member executive board, delegating responsibilities and ensuring alignment with the organization’s mission and goals
+- Foster a positive and inclusive culture that encouraged member involvement, initiative, and ownership of projects	
+
+
+## Skills & Interests
+- Skills: MS, Google
+- Interesets: Studying new langauges

@@ -6,7 +6,7 @@
 
 ---
 
-## Executive Summary (150 words max)
+## Executive Summary
 
 Arcutis Biotherapeutics Inc. (ARQT) is a medical dermatology company in the Biotechnology and Medical Dermmatology industry focused on innovating medicine for immune-mediated dermatological diseases and conditions like psoriasis. They create topicals to treat major inflammatory skin diseases.
 

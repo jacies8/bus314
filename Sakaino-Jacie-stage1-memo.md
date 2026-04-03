@@ -8,20 +8,21 @@
 
 ## Executive Summary
 
-Arcutis Biotherapeutics Inc. (ARQT) is a medical dermatology company in the Biotechnology and Medical Dermmatology industry focused on innovating medicine for immune-mediated dermatological diseases and conditions like psoriasis. They create topicals to treat major inflammatory skin diseases.
+Arcutis Biotherapeutics Inc. (ARQT) is a medical dermatology company in the Biotechnology and Medical Dermatology industry focused on innovating medicine for immune-mediated dermatological diseases and conditions like psoriasis. They create topicals to treat major inflammatory skin diseases.
 
-The analysis will examine six different ratio categorites using data from SEC EDGAR and 2024 and 2025 earnings realeases that will evaluate ARQT's health. The objective of this analysis is to provide an evaluation about ARQT and to create a clear report of its health with human recommendations and interpretations.  
-
+The analysis will examine six different ratio categories using data from SEC EDGAR and 2024 and 2025 earnings releases that will evaluate ARQT's health. The objective of this analysis is to provide an evaluation about ARQT and to create a clear report of its health with human recommendations and interpretations.
 
 
 ---
 
 ## Company Background & Objectives
-Headquarted in Westlake Village in California, ARQT is past its research stage and is in its commercial stage of being a biopharmaceutical company. Its core product, ZORYVE is a steroid free topical made to treat plaque psoriasis, seborrheic dermatitis, and atopic dermatitis. It is ARQT's primary driver in innovation, growth, income, and revenue.
 
-In 2025, ARQT performed well. Per its website, the net product revenue of one of its topical creams increased 123% over the past year. Additionally, the company announced the expansion of new initiatives like a sales force and commercialization efforts. At the end of 2025, ARQT was maintaining positive cashflow, and its revenue and growth is expected to increase in the coming years.
+Headquartered in Westlake Village in California, ARQT is past its research stage and is in its commercial stage of being a biopharmaceutical company. Its core product, ZORYVE is a steroid free topical made to treat plaque psoriasis, seborrheic dermatitis, and atopic dermatitis. It is ARQT's primary driver in innovation, growth, income, and revenue.
 
-A comprehensive ratio analysis is valuable to analyze performance, cost efficiency, and more. For example, an innovative company like ARQT has high research and devlopment costs, and a ratio analysis could show a feasible budget and how much to allocate to R&D. Additionally, on a balance sheet, high costs of investment and equipment may seem undesirable to investors, so a ratio can explain a lot more than just a figure on a balance sheet. Cash flow and revenue are important as well, and a ratio analysis will show how much growth ARQT can expect, show how much money is needed for upfront costs, and see the amount of profit ARQT is seeing each year.
+In 2025, ARQT performed well. Per its website, the net product revenue of ZORYVE increased 123% over the past year. Additionally, the company announced the expansion of new initiatives like a sales force and commercialization efforts. At the end of 2025, ARQT was maintaining positive cash flow, and its revenue and growth is expected to increase in the coming years.
+
+A comprehensive ratio analysis is valuable to analyze performance, cost efficiency, and more. For example, an innovative company like ARQT has high research and development costs, and a ratio analysis could show a feasible budget and how much to allocate to R&D. Additionally, on a balance sheet, high costs of investment and equipment may seem undesirable to investors, so a ratio can explain a lot more than just a figure on a balance sheet. Cash flow and revenue are important as well, and a ratio analysis will show how much growth ARQT can expect, show how much money is needed for upfront costs, and see the amount of profit ARQT is seeing each year.
+
 
 ---
 

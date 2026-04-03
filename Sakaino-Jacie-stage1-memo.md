@@ -17,7 +17,7 @@ The analysis will examine six different ratio categorites using data from SEC ED
 ---
 
 ## Company Background & Objectives
-Headquarted in Westlake Village in California, ARQT is past its research stage and is in its commercial stage of being a biopharmaceutical company. Its core product, ZORYVE is a steroid free topical made to treat plaque psoriasis, seborrheic dermatitis, and atopic dermatitis. It is ARQT's priimary driver in innovation, growth, income, and revenue.
+Headquarted in Westlake Village in California, ARQT is past its research stage and is in its commercial stage of being a biopharmaceutical company. Its core product, ZORYVE is a steroid free topical made to treat plaque psoriasis, seborrheic dermatitis, and atopic dermatitis. It is ARQT's primary driver in innovation, growth, income, and revenue.
 
 In 2025, ARQT performed well. Per its website, the net product revenue of one of its topical creams increased 123% over the past year. Additionally, the company announced the expansion of new initiatives like a sales force and commercialization efforts. At the end of 2025, ARQT was maintaining positive cashflow, and its revenue and growth is expected to increase in the coming years.
 
